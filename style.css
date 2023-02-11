@@ -1,0 +1,51 @@
+* {
+  background-color: #c2c4c7;
+}
+body,
+button,
+input {
+  font-size: 20px;
+  direction: rtl;
+  font-family: "Tahoma";
+  padding: 5px;
+}
+input {
+  width: 150px;
+  height: 37px;
+
+  background-color: rgb(99, 158, 197);
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  color: rgb(43, 40, 40);
+  box-shadow: 2px 9px 21px 0px;
+}
+h2 {
+  text-align: center;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 10px;
+}
+#chances {
+  font-weight: bold;
+  color: red;
+}
+.blue {
+  color: blue;
+}
+.red {
+  color: red;
+}
+.green {
+  color: rgb(0, 98, 255);
+}
+.hidden {
+  display: none;
+}
+button {
+  background-color: rgb(99, 158, 197);
+  border: 1px solid #ccc;
+  width: 100px;
+  height: 50px;
+  border-radius: 10px;
+  color: rgb(43, 40, 40);
+  box-shadow: 2px 9px 21px 0px;
+}
